@@ -117,7 +117,9 @@ Contato
 ## Cores
 
 branco: `#FFF`;
+
 azul-claro: `#DFE3E5`;
+
 vermelho-forte: `#B72E2E`;
 cinza-escuro: `#4F4C4C`;
 cinza-claro: `#F7F4F4`;
